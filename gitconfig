@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mhtbmahdavifar@gmail.com
+	name = Mahtab Mahtdavifar
